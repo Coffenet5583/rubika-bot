@@ -10,7 +10,7 @@ import requests
 
 # توکن رو از متغیر محیطی می‌خونه (برای دیپلوی روی Railway/Render و امنیت بیشتر)
 # برای تست محلی، می‌تونی موقتاً مقدار پیش‌فرض رو عوض کنی
-TOKEN = os.environ.get("TOKEN", "توکن_بات_خودت_را_اینجا_بگذار")
+TOKEN = os.environ.get("TOKEN", "CECEHI0EOSZIOTIIXPWJOTIEYPLBMPPODSEFPIWXINEIERXSEVYIEKXDSZMOPAMR")
 BASE_URL = f"https://botapi.rubika.ir/v3/{TOKEN}"
 
 # چه چیزی «لینک/تبلیغ» حساب می‌شود - این‌ها را بر اساس نیازت اصلاح کن
